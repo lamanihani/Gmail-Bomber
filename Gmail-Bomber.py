@@ -81,7 +81,7 @@ except smtplib.SMTPAuthenticationError:
     print(" ")
     print("\033[94m[✘] \033[91mError \033[97m:")
     print '\033[94m[✘] \033[97mThe \033[93musername \033[97mor \033[93mpassword \033[97myou entered is incorrect.'
-    print "\033[94m[!] \033[97mCheck if your Email OPtions if the was enabled"
+    print "\033[94m[!] \033[97mCheck if the Options of 'Applications are less secure' is enabled "
     sys.exit()
 
 
