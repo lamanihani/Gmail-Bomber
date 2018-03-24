@@ -72,22 +72,7 @@ try:
         sys.stdout.flush()
     server.quit()
     print '\033[93m[✔]\033[97m All \033[97mMessage was\033[92m sent\033[97m '
-    #JUST A SHIT :D
-    time.sleep(30)
-    os.system('clear')
-    os.system('clear')
-    os.system('figlet Always')
-    time.sleep(5)
-    os.system('figlet Look ')
-    time.sleep(5)
-    os.system('figlet To the Sky :)')
-    time.sleep(5)
-    os.system('figlet & never')
-    time.sleep(5)
-    os.system('figlet look Down')
-    time.sleep(5)
-    os.system('figlet .Stever H')
-    time.sleep(5)
+    
     
 except KeyboardInterrupt:
     print '[✘] Canceled'
