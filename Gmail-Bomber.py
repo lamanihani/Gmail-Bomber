@@ -18,8 +18,6 @@ import sys
 import getpass
 import time
 ############################ JUST a SHIT ###################
-print("[!] Intall Package :")
-os.system('apt-get install hani')
 os.system('clear')
 rania1 = ("            #do you even \033[91mexist\033[97m ")
 rania2 = ('''          #Im \033[92mgood\033[97m at reading \033[93mpeople
